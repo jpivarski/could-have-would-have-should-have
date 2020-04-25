@@ -70,6 +70,16 @@ what does this have to do with causality? the reason it's so hard to find causal
 
 Judea Pearl's casual revolution, do calculus
 
+this definition of causality is explicitly a feature of the model: if two models, one with an arrow from A to B and the other without, are both equally good statistical fits to the data, then we couldn't say that "the data prove that A causes B." if we have a non-statistical reason for believing the first model (it "rings true" and the other doesn't), then we might be inclined to say that A causes B, but wouldn't be able to defend it. finally, even if our best model with all the data in favor of it claims that A causes B, a new, better model might be invented tomorrow in which A does not cause B. causality is model-dependent
+
+the definition also relies on counterfactuals: the model makes claims about what WOULD HAVE happened if an experimenter had intervened. the empirical data (neglecting mismeasurement) say what IS, but we need other parts of speech to describe events that COULD HAVE happened but didn't. this is another way in which causality is beyond the realm of physics and why totally deterministic visions of the world aren't really causal: the Big Bang and the apple falling on Newton's head are part of the same equation; you can play, fast-forward, or rewind, but you can't keep all particle trajectories at one time and not have the apple fall on his head without violating the laws that keep them on their rails
+
+so we're back to imagining many worlds, but with a difference: one of them is distinguished, and we might as well call that special world the "real" world. one set of events IS, the others COULD BE. this is not Hugh Everett's many worlds, in which each quantum possibility is equally valid; it's also not sci-fi's splitting timelines because the COULD BEs never existed and never will—the idea of "changing" a COULD HAVE BEEN into an ACTUALLY WAS is just as fraught with paradoxes as ever.
+
+what COULD BEs denote are states allowed by the model but not observed in data. the WOULD BEs are states that the model predicts that depend on intervention (a do operator).
+
+
+
 
 
 ... segue ...
