@@ -1,8 +1,6 @@
 # Could have, would have, should have
 
-## Correlation does not imply causality
-
-So what does?
+Correlation does not imply causality. So what does?
 
 causality in physics: "I knocked over the glass, which caused it to fall on the floor"
 
@@ -48,14 +46,18 @@ the methods for deciding whether a mathematical statement is valid and whether a
 
 Plato, etc. argued that math is real at the expense of the physical world; Democritus etc. argued that the physical world is real at the expense of human perceptions
 
-why not say they're two KINDS of reality?
+why not say they're two KINDS of reality? "real" is a human word, we use human words to collectively label similar things that we encounter, and these two things (math and physics) are rather different, so let's use two words. I like "valid" and "factual"
 
+furthermore, the way we think about science tends to treat these as two poles. in many fields of science, practiciners talk about "models." a model is a mathematical structure that represents an aspect of the physical world, but shouldn't be confused with it. maybe it's a rough model of stock prices, arbitrarily tuned to agree with the data, or it's the very precise Standard Model of particle physics, designed to truly answer the question of "what's really going on?" but still physicists don't BELIEVE in it. they expect it to be discarded when a better models with fewer "problems" is invented and shown to be a better fit AND have better explanatory power
 
+explanatory power is not a quantifiable thing, but it's the ultimate goal of science. explanations connect the world of validity with the world of empirical fact. models are precise explanations, but explanations consist of a spectrum that includes stories. not just semi-scientific myths, like creation stories and how the leopard got its spots, but fiction that doesn't seem to have a utilitarian goal, yet comes to a satisfying conclusion.
 
+moreover, explanations are optional. Kepler thought it was important to explain why there are exactly 5 planets with the exact orbital radii they are observed to have (he thought it had to do with the 5 Platonic solids). today, because we have an explanation for how solar systems in general form by a chaotic process, we don't feel a need to explain why we have PRECISELY this configuration, though it would be interesting to know where we are in the probability distribution. if someone managed to prove exactly which rock hit which other rock to give us the solar system we have, it would be impressive, but it wouldn't be interesting.
 
+similarly, anthropic principle
 
----
+... segue ...
 
-the old deterministm wasn't "everything deterministic" (in most scientists' interpretations), but "everything except for human agents"
+the old determinism wasn't "everything deterministic" (in most scientists' interpretations), but "everything except for human agents"
 
-
+... getting into free will for experimenters ...
