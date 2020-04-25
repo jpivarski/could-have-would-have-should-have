@@ -52,9 +52,19 @@ furthermore, the way we think about science tends to treat these as two poles. i
 
 explanatory power is not a quantifiable thing, but it's the ultimate goal of science. explanations connect the world of validity with the world of empirical fact. models are precise explanations, but explanations consist of a spectrum that includes stories. not just semi-scientific myths, like creation stories and how the leopard got its spots, but fiction that doesn't seem to have a utilitarian goal, yet comes to a satisfying conclusion.
 
+the satisfaction of a good scientific result is the same (or similar) emotion as the satisfaction of a resolved plot, and possibly even a resolved harmony in music. these achieve the same emotional goal even though they don't have the form of a validity proof or an empirical demonstration
+
 moreover, explanations are optional. Kepler thought it was important to explain why there are exactly 5 planets with the exact orbital radii they are observed to have (he thought it had to do with the 5 Platonic solids). today, because we have an explanation for how solar systems in general form by a chaotic process, we don't feel a need to explain why we have PRECISELY this configuration, though it would be interesting to know where we are in the probability distribution. if someone managed to prove exactly which rock hit which other rock to give us the solar system we have, it would be impressive, but it wouldn't be interesting.
 
 similarly, anthropic principle
+
+just as validity of love kind of real, empirical fact is another, I would argue that explanations are yet a third kind of real. different criteria apply to determining if an explanation is a good explanation than determining if a mathematical proof is valid or a phenomenon physically exists, but explanations are just as important because they connect and motivate the other two. a table of facts with no connection, no "significance," is not science, note is every mathematically valid combination of symbols math. good explanations make "sense" of them, recently by building mathematical models of physical realities
+
+I also believe that causality is so hard to find in physics because it's not a feature of empirical facts, it's a feature of explanations. empirical data cannot prove that one event caused another, but model explanations can include casual relationships. when people prove that A caused B, they're actually demonstrating that M is a good, explanatory model for the data and in the mathematical description of M, A implies B.
+
+Judea Pearl's casual revolution
+
+
 
 ... segue ...
 
