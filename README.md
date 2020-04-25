@@ -62,7 +62,7 @@ just as validity of love kind of real, empirical fact is another, I would argue 
 
 I also believe that causality is so hard to find in physics because it's not a feature of empirical facts, it's a feature of explanations. empirical data cannot prove that one event caused another, but model explanations can include casual relationships. when people prove that A caused B, they're actually demonstrating that M is a good, explanatory model for the data and in the mathematical description of M, A implies B.
 
-Judea Pearl's casual revolution
+Judea Pearl's casual revolution, do calculus
 
 
 
