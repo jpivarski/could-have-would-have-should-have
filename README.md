@@ -16,14 +16,46 @@ quantum mechanics complicates causality (some would say "violates causality") be
 
 but this still doesn't get at causality as "making something happen that wouldn't have otherwise" or even "being responsible for something happening"
 
-## Causality of time travel
-
 science fiction plays with the idea of causality a lot; after all, fiction/plot is a chain of "why?" questions and answers and science-inspired plots provide fodder
 
 but most sci-fi is a mess of contradictions
 
 typically destructive paradoxes: because a thing happened (Marty McFly stopped his parents from getting together), that thing can't happen (Marty McFly couldn't have been born to go back and stop his parents from getting together)
 
-there are also constructive paradoxes, but they're more rare (By his Bootstraps); though theoretically possible
+there are also constructive paradoxes (closed time loop), but they're more rare (Oedipus Rex, All You Zombies, The Arrival); though theoretically possible (all you need is a time machine)
+
+generally imagine a forked timeline: normal time is a linear chain of causes and effects, but a time machine lets the user fork the past into the "original timeline" and the "altered timeline." they either both exist (Mirror, Mirror) or only the most recently created or the timeline the main character is in exists
+
+if they both exist, does the protagonist really do anything when they "restore the original timeline"? or are they just travelling back to a world they prefer?
+
+Everett's many worlds hypothesis: maybe the multi-valued properties of quantum particles (e.g. a particle that's in two places at once) is really multiple deterministic worlds that communicate at small scales. sci-fi invokes this as an explanation of the forked timeline, but for its originally intended use as an explanation of quantum mechanics, EVERY minor variation in trajectory a microscopic particle could make spawns a new universe; the timeline is thick with forks
+
+if every possible plot of a story is equally real—heros with 1000-to-1 odds actually lose 999 times—why should I care about the story in which they win? it's selective reporting
+
+there's another extreme intended to save determinism in an apparently quantum world: superdeterminism. suppose that the universe is like a digital movie, consisting of pixel values at every grid point of the screen and time through the movie. there's no rule that forces a pixel value at one time to imply another pixel value at another time: everybody could glitch blue tomorrow. in this view, the long-distance, short-time quantum correlations that violate relativity's limits are accidental; Alice and Bob observe correlations no matter whether they measure X or Y because they can't choose to measure X or Y. They're part of the universal correlation that they're measuring
+
+(maybe I have to explain Bell's inequality)
+
+I don't believe either of these extremes, but they do highlight what's important in a theory of causality: (1) there has to be a distinction between what does happen and what could happen, and (2) experimenters have to be free to choose what experiments to perform. free will is a prerequisite for identifying causes, and therefore a prerequisite for doing science
+
+what's a real world? idealism vs realism was a central preoccupation of western philosophy
+
+logical/mathematical validity seems to be foundational because it can be perceived directly (a priori) and without error (CAN be, anyway); the discovery and redicovery of pi to hundreds of digits in classical Greece and China is a good demonstration that there's something real there, something both cultures had access to without being able to communicate with one another
+
+empirical fact seems to be foundational because the minds that think up mathematical ideas are clearly machines; they can be dissected and observed in vivo with fMRI
+
+the methods for deciding whether a mathematical statement is valid and whether an empirical fact is true have few similarities. they both require consistency, but mathematical statements must be proven via a grammatical machine while empirical facts must be proven by reproducibility and lateral measurements. the whole tool-set is different for these two things: why do we use the same word, "real" to describe them both?
+
+Plato, etc. argued that math is real at the expense of the physical world; Democritus etc. argued that the physical world is real at the expense of human perceptions
+
+why not say they're two KINDS of reality?
+
+
+
+
+
+---
+
+the old deterministm wasn't "everything deterministic" (in most scientists' interpretations), but "everything except for human agents"
 
 
