@@ -12,6 +12,8 @@ the word "causality" pops up all over relativity, but relativity only puts limit
 
 quantum mechanics complicates causality (some would say "violates causality") because there are correlations between events farther apart than relativity allows
 
+ (this is where you should introduce Bell's inequality)
+
 but this still doesn't get at causality as "making something happen that wouldn't have otherwise" or even "being responsible for something happening"
 
 science fiction plays with the idea of causality a lot; after all, fiction/plot is a chain of "why?" questions and answers and science-inspired plots provide fodder
