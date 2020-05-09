@@ -26,7 +26,10 @@ III. Could have, would have, should have
 
    B. Quantum mechanics does not violate causality: an entangled pair is a single (spatially distributed) event. Alice and Bob's measurements are connected by an undirected line, not a directed arrow.
 
-   C. 
+   C. We haven't derived consciousness from quantum mechanics or anything silly like that, but the problem now is no worse than it was under classical mechanics. In fact, it's better because there was no room in a classical world for the experimenter. (In practice, I think 19th C. scientists imagined a line separating their choices from nature.)
+
+   D. The last conditional is SHOULD HAVE. Without a distinction between what IS and what COULD BE and without the ability to choose from the possibilities, we couldn't even talk about ethics, the value of one choice over another. Regardless of whether we like/dislike "thou shalt" rules, we implicitly make value decisions from moment to moment in all the microscopic choices we make. Choosing when to blink is not qualitatively distinct from turning a trolley to kill one instead of five. Logic has an overarching rule; empirical data seem to follow a rule as well; what directs the choices we make?
+
 
 
 
