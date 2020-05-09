@@ -92,7 +92,17 @@ Hugh Everett's many worlds interpretation is another solution. Instead of imagin
 
 This works—it explains the paradox—but we lose our will to live. For every good deed I might do, there's a version of me that does the opposite. Every single thing that could happen is happening, all the time. Not only is there no reason to live, but I am in fact dying all the time, continuously. I mean we lose our will to live in the most literal sense: we lose our will. We can't make a thing happen because to say that it happens is just as correct as to say that it doesn't happen. Whether you feel motivated or dispirited by that is beside the point.
 
+There's another, less-often discussed alternative. Unlike the many worlds interpretation, I think it's safe to say that this one has no adherents. One detail of Bell's inequality that I have left for now is that the problem isn't with 100% correlation: there are deterministic theories that can account for 100% correlations of simple mixed states. The issue is with more complex states, like the following.
 
+An electron's spin, like the quantum record player, is quantized: it can either be spinning clockwise at a certain rate or counterclockwise at that rate. But "clockwise" and "counterclockwise" presupposes an axis. If an electron is spinning clockwise as seen from below, measurements of its spin relative to that vertical axis will always result in "spin up." Likewise, counterclockwise as seen from below is "spin down." But if you measure the same electron's spin along a horizontal axis it would be 50% "spin left" and 50% "spin right." If you measure along a diagonal, it's a different percentage, such that an axis that's very close to vertical would be 99% "spin uppish" and 1% "spin downish." A pure state when measured in one direction is a completely mixed state when measured perpendicular with all degrees in between.
+
+Bell's inequality actually concerns these in-between correlations, in which Alice measures relative to a vertical axis and Bob measures along some diagonal. If Alice and Bob agree ahead of time what angles they will choose, the electrons might overhear them and pick spin values along these axes that correlate appropriately. Thus, Alice and Bob must choose their axes of measurement on the fly, after they're already separated by a great distance, and they must make their choices rapidly enough that secret messages can't be passed between the particles. The crux of the argument is that Alice and Bob are free to choose what experiments they perform.
+
+Here's the alternative theory that exploits this loophole: superdeterminism. In a superdeterministic universe, everything is predetermined, including the choices that Alice and Bob make, and it forces their hand in such a way that they _happen to choose_ combinations that look like standard quantum mechanics.
+
+This is not 19th century determinism, in which all motions follow from a simple mathematical law; it forces complex structures, such as human beings, to participate in a pageantry that would otherwise resemble a simple non-deterministic law. It's not the determinism of a clockwork or a wave, it's the determinism of a movie on a computer, in which the colors of each pixel in each frame are fixed from the beginning. It is a movie created by a trickster god to trick the entities on the frames who don't have any capacity for independent thought.
+
+Both of these extremes, 
 
 
 
