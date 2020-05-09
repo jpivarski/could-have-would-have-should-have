@@ -115,3 +115,12 @@ Quantum mechanics didn't introduce these problems—they were present in 19th ce
 Ironically, quantum mechanics doesn't break causality; it might have just saved it.
 
 ## Thoughts and Stuff
+
+Western philosophy is obsessed with the distinction between ideals—objects of thought—and empirical objects of the natural world. Statements about ideals can be proven without making any observations (_a priori_): a mind can discover them in isolation. Statements about the natural world require observations (_a postiori_). As a kind of shorthand, I think of them as math and physics, though ideals are more general than math and the physical world is more general than physics. Instead, perhaps we could call them Thoughts and Stuff.
+
+This distinction is an important one to make. Early scientific mistakes can be traced to not understanding the difference. If Aristotle seems obstinate or clueless in his assertions about the immobile Earth or elements sinking to their natural places, we should remember that mathematical proof was a relatively new thing (he lived at the same time as Euclid) and the scientific method was more than a millennium in the future. Aristotle thought methodically about nature, just as one would work through a mathematical proof. The problem is that nature cannot be discovered by introspection.
+
+The point where I think the contrast breaks down is when a philosophy claims that ideals are real and the physical world is but a shadow, or that there is naught but atoms and the void. Team Thought has had its adherents, such as Plato and Bishop Berkeley, and Team Stuff has had its own, such as Democritus and Hobbes. They're certainly different, so much so that it doesn't make sense to use the same word, "real," for both. How about "valid" and "factual?"
+
+Statements of validity are more like connectives than isolated truths. Given the definitions of 2, 3, 5, plus, and equality, 2 + 3 = 5. But this relationship is universal: if you define the same concepts in any other words, you'll arrive at the same result. As a dramatic demonstration, Archimedes in ancient Greece and Liu Hui in ancient China both approximated π to 5 digits by circumscribing and inscribing polygons, respectively. They both hit the same target within 0.1% by application of pure thought, most likely without conspiring to agree. (The chance that the method was communicated across Asia is miniscule.) It's highly suggestive that there is a central reality they both discovered, rather than arbitrarily inventing the same idea.
+
