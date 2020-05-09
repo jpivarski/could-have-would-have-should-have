@@ -58,6 +58,21 @@ If our hero escapes against 100-to-1 odds in one timeline, he didn't escape in t
 
 ### The problem quantum mechanics poses
 
+Physicists tend to romanticize the pre-quantum era as a time of innocence. In the good old days, nature was deterministic. Knowing the past and the laws of motion, we can derive the future. It all made sense.
+
+The first upset was relativity: intuitively, time is an offstage drumbeat that continues at a relentless pace, regardless of what happens in the play, but Albert Einstein presented a vision of time as a dimension like space that can mix just as length and width mix when a picture frame rotates. Space-time rotates differently from space-space: space-space can rotate 180° to completely reverse the direction of a length, but space-time maxes out at 45°, a speed at which a unit of distance is covered in an equal unit of time, since time and space can now be measured in the same units. This 45° line is called the speed of light because light is one of the things that travels at this speed.
+
+That was an upset, at first, because it introduces a no-man's land between past and future. Since the fastest trajectory any moving particle or propagating wave can take is limited, there are events happening now that we can't be aware of. A nearby star could be exploding, but it will take years for the light, gravitational waves, neutrinos, or anything else to reach us. More disturbingly, "now" is ambiguous. A star exploding today that we won't see for 10 years has, in another frame of reference, already exploded 9 years ago. In yet another frame of reference, it won't actually explode for another 9 years. These reference frames are the time that would be experienced by astronauts in fast spaceships, and their time is slower or faster such that all physical events that involve contact are unchanged.
+
+These reference frames are as valid as our reference frame, stationary on Earth, and surprisingly enough, no real paradoxes arise from this situation. Our intuitive notion that "now" is independent of speed is wrong, but if we scale back our claims to what we can physically measure, contact interactions of two particles at the same point in space and time, then everything is consistent.
+
+So in physicists' romanticized history, relativity is a part of classical mechanics. Then came quantum.
+
+At small scales, particles don't appear to have single-valued properties. Particle position can have multiple values—here _and_ there—speeds can have multiple values, as can rotation rates and a suite of new properties that describe nuclear and subnuclear interactions. The one I find most striking is rotation rate, called "spin," which is always quantized in exact units. Imagine a record player that can only play at 33, 45, and 78 RPM, never anything in between. A quantum record player could play at 45 _and_ 78 RPM, but could never play at 60 RPM. That's just the way it works.
+
+
+
+
 
 
 
