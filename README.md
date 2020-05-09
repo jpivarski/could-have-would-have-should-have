@@ -84,6 +84,13 @@ The problem will not go away.
 
 ### Solutions to the problem quantum mechanics poses
 
+One of the weak assumptions that John Bell made was that information does not propagate faster than the speed of light. Alice's record player and Bob's tape recorder were separated before they performed their measurements so that the record player, if it was measured first, would not send a secret message to the tape player to pretend it had always been squeaky chipmunks. Likewise, we wouldn't want a secret message to be sent from Bob's tape recorder to Alice's record player. By separating them to a large enough distance and measuring them within a short enough time interval, the two measurements are in the ambiguous zone where neither is before the other. The two parts of the entangled state are forced to speak for themselves, without help.
+
+Thus, one easy way to solve the dilemma is to suppose that information can travel faster than light. This is an act of despiration—the "secret messages" were already act of desperation—we never said how or why the record player and tape recorder would want to help each other in their subterfuge. Also, relativity is one of the Good Theories: despite the fact that it defies intuition, it's fully consistent with a "realist" worldview. It's the apex of deterministic physics—time is reduced to geometry and motion is a shape. One could and some physicists do give up relativity to save determinism, but it's a hard argument to make, especially considering all the experimental evidence in favor of relativity.
+
+Hugh Everett's many worlds interpretation is another solution. Instead of imagining one timeline that particles can rewrite or affect their former selves like Jane the time-traveler, we imagine an ever-splitting timeline with single-valued properties in each. When Alice observes the record player at 78 RPM and Bob hears squeaky chipmunks, there's another universe in which Alice observes 45 RPM and Bob hears normal music. They're correlated because they're in the same universe as each other. As they do the experiment over and over, doubling the number of universes with each experiment, they always happen to find themselves in the same universe as each other, and hence with consistent histories.
+
+This works—it explains the paradox—but we lose our will to live. For every good deed I might do, there's a version of me that does the opposite. Every single thing that could happen is happening, all the time. Not only is there no reason to live, but I am in fact dying all the time, continuously. I mean we lose our will to live in the most literal sense: we lose our will. We can't make a thing happen because to say that it happens is just as correct as to say that it doesn't happen. Whether you feel motivated or dispirited by that is beside the point.
 
 
 
@@ -91,5 +98,8 @@ The problem will not go away.
 
 
 
+
+
+In my opinion, it's not a problem to be solved.
 
 ## Thoughts and Stuff
