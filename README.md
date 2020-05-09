@@ -66,11 +66,11 @@ That was an upset, at first, because it introduces a no-man's land between past 
 
 These reference frames are as valid as our reference frame, stationary on Earth, and surprisingly enough, no real paradoxes arise from this situation. Our intuitive notion that "now" is independent of speed is wrong, but if we scale back our claims to what we can physically measure, contact interactions of two particles at the same point in space and time, then everything is consistent.
 
-So in physicists' romanticized history, relativity is a part of classical mechanics. Then came quantum.
+So in physicists' romanticized history, relativity is a part of classical mechanics. But then came quantum.
 
-At small scales, particles don't appear to have single-valued properties. Particle position can have multiple values—here _and_ there—speeds can have multiple values, as can rotation rates and a suite of new properties that describe nuclear and subnuclear interactions. The one I find most striking is rotation rate, called "spin," which is always quantized in exact units. Imagine a record player that can only play at 33, 45, and 78 RPM, never anything in between. A quantum record player could play at 45 _and_ 78 RPM, but could never play at 60 RPM. That's just the way it works.
+At small scales, particles don't appear to have single-valued properties. Particle position can have multiple values—here _and_ there—speeds can have multiple values, as can rotation rates and a suite of new properties that describe nuclear and subnuclear interactions. The one I find most striking is rotation rate, called "spin," which is always quantized in exact units. Imagine a record player that can only play at 33, 45, and 78 RPM, never anything in between. A quantum record player could play at 45 _and_ 78 RPM, but it could never play at 60 RPM, not even as part of a transition from 45 to 78 RPM. That's just the way it works. It's not a dimmer switch that slides through a continuum of values, it's an on-off switch that can be 30% on, 70% off if it wants to.
 
-
+These intermediate states can't be directly seen. If you ask a quantum record player in the half-45 RPM, half-78 RPM state how fast it's spinning, it will respond "45 RPM" or "78 RPM" with equal probability. Henceforth, it will be in an all-45 RPM or an all-78 RPM state, as though it had never been in a mixture. Moreover, anything else that depended on which state it was in would also act as though the record player had always been in the new state. Multi-valued states, by themselves, are not a problem—we could have expanded our mathematical model of nature to include functions of sets of numbers, rather than functions of numbers. It's the "pretending to have always been 78 RPM" that's a problem. The record player has retconned its own history.
 
 
 
