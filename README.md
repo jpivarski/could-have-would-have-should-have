@@ -1,5 +1,23 @@
 # Could have, would have, should have
 
+Drawing a thread through the first sketch.
+
+I. What is causality? It is often said that classical physics was causal and quantum physics is not, but determinism isn't causality.
+
+II. Science fiction studies causality in time travel stories. The ones that favor free will over determinism are a mess of contradictions; the others are presented as more "hard science."
+
+III. The problem of quantum mechanics (Bell's inequality) and possible solutions: many worlds at one end and superdeterminism at the other.
+
+IV. Both of these extremes undermine causality. If all worlds exist, then A didn't cause B because B didn't happen any more than not-B. If experimenters are not free to choose what they measure, then the world is as acausal as 
+
+
+
+
+
+
+
+--------------------------------
+
 Correlation does not imply causality. So what does?
 
 causality in physics: "I knocked over the glass, which caused it to fall on the floor"
