@@ -1,22 +1,39 @@
 # Could have, would have, should have
 
-Drawing a thread through the first sketch.
+I. If correlation does not imply causality, what does?
 
-I. What is causality? It is often said that classical physics was causal and quantum physics is not, but determinism isn't causality.
+   A. What is causality? It is often said that classical mechanics was causal and quantum mechanics is not, but determinism isn't causality.
 
-II. Science fiction studies causality in time travel stories. The ones that favor free will over determinism are a mess of contradictions; the others are presented as more "hard science."
+   B. Science fiction studies causality in time travel stories. The ones that favor free will over determinism are a mess of contradictions; the others are presented as more "hard science."
 
-III. The problem of quantum mechanics (Bell's inequality) and possible solutions: many worlds at one end and superdeterminism at the other.
+   C. The problem that quantum mechanics poses (Bell's inequality) and possible solutions: many worlds at one end and superdeterminism at the other.
 
-IV. Both of these extremes undermine causality. If all worlds exist, then A didn't cause B because B didn't happen any more than not-B. If experimenters are not free to choose what they measure, then the world is as acausal as 
+   D. Both of these extremes undermine the notion of causality, but a more conventional view does not. If all worlds exist, then A didn't cause B because B didn't happen any more than not-B. If experimenters are not free to choose what they measure, then the world is as acausal as classical mechanics made it out to be.
+
+II. Thoughts and Stuff
+
+   A. Western philosophy has been obsessed with ideals (objects of thought) versus reals (objects revealed by the senses).
+
+   B. I prefer to think they're two kinds of reality, and they're not alone. What science studies, even the "hard sciences," is not exclusively logic and observations. It also constructs a narrative.
+
+   C. Models (like the Standard Model) are stories that connect observations to logic. This connection is a leap, but not a large one; smaller than most other narratives.
+
+   D. Modern theory of causality (Judea Pearl's arrows) are aspects of the model, the explanation—not reason or data. Causality exists only in the narrative; "proving causality" means supporting a narrative that exhibits that causality.
+
+III. Could have, would have, should have
+
+   A. Causality requires things many-worlds and superdeterminism don't have: (1) a distinction between what IS and what COULD BE and (2) the ability for experimenters to intentionally intervene in nature. Causality hinges on what WOULD BE if experimenters did something different.
+
+   B. Quantum mechanics does not violate causality: an entangled pair is a single (spatially distributed) event. Alice and Bob's measurements are connected by an undirected line, not a directed arrow.
+
+   C. 
 
 
 
-
-
-
-
+   
 --------------------------------
+
+**Original sketch:**
 
 Correlation does not imply causality. So what does?
 
