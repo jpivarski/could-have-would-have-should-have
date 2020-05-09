@@ -102,14 +102,18 @@ Here's the alternative theory that exploits this loophole: superdeterminism. In 
 
 This is not 19th century determinism, in which all motions follow from a simple mathematical law; it forces complex structures, such as human beings, to participate in a pageantry that would otherwise resemble a simple non-deterministic law. It's not the determinism of a clockwork or a wave, it's the determinism of a movie on a computer, in which the colors of each pixel in each frame are fixed from the beginning. It is a movie created by a trickster god to trick the entities on the frames who don't have any capacity for independent thought.
 
-Both of these extremes, 
+Both of these extremes, many worlds and superdeterminism, are attempts to save determinism from atemporal influences: Jane the time-traveling particle. I can't object to them on physical grounds because they are interpretations that explain the same phenomena as standard quantum mechanics, but philosophically, they are wrong. They're wrong because they are pointless: these theories describe a world of automatons who cannot appreciate these theories. If we say that we came to one of these conclusions by taking a hard-nosed look at the science, it is a view of science that undermines the reality of scientists, and if there are no scientists, who's doing the science?
 
+At best, they are theories that a solipsist (someone who thinks they are the only consciousness in the universe) can think about everybody else.
 
+The reason I think it's useful to consider the many worlds theory and superdeterminism is because they show exactly what is missing when you try to define causality in a deterministic worldview. Causality, the idea behind "if I push this glass, then it will fall and smash on the floor," needs two things: (1) possible worlds that are _different_ from the real world, and (2) experimenters can make free choices.
 
+There is no causality in the many worlds theory because the glass falls and it does not fall, each in different universes. There is a one-to-one relationship—it only smashes in worlds in which it was pushed (mostly: there are small quantum probabilities for just about everything)—but we want causal statements to be actionable. If putting books in a child's home really does increase their chances of success, then let's get some books! If both branches of the if-then are always taken, then that's not what we mean by causality, not why we cared about it in the first place.
 
+Much more so for superdeterminism: this theory denies that any choices are possible to the extent that conclusions cannot be drawn from experimental measurements. That's precisely why this theory was invented; to escape the interpretation of a particular experimental measurement. It's irrational to say, "I don't believe in free will because of science," because the scientific method doesn't work without free will.
 
+Quantum mechanics didn't introduce these problems—they were present in 19th century determinism because they are problems with determinism. They are brought to the fore by attempts to save determinism from quantum mechanics.
 
-
-In my opinion, it's not a problem to be solved.
+Ironically, quantum mechanics doesn't break causality; it might have just saved it.
 
 ## Thoughts and Stuff
