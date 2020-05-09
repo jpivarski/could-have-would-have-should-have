@@ -46,4 +46,26 @@ Science fiction does attempt to solve the problem, however, especially for destr
 
 This view is made to seem less problematic than it is because the science fiction story usually follows the time travelers who "cause" the timeline to split. Following their subjective time through the story, history was not split "before" they intervened and it was split "after." If the alternate timeline is "wrong" (e.g. fascist), we follow the time travelers again as they go back and "prevent" themselves from splitting history in the first place. In the end, time had never split. All is good.
 
-The problem is that we're only considering the time traveler's subjective history as real. We have value judgements about timelines: one is natural, the other is alternate. Which timeline exists is something that is evaluated from the traveler's point of view.
+The problem is that we're only considering the time traveler's subjective history as real. We have value judgements about timelines: one is natural, the other is alternate. Which timeline exists is something evaluated from the traveler's point of view: it wasn't split, then it was, then it wasn't again. This kind of lazy storytelling uses time as a setting, somehow distinct from the stream of events in which the story plays itself out.
+
+If we take the time-split seriously, what happens when the time traveler accidentally creates a fascist dystopia? The traveler is just _visiting_ a fascist dystopia. When the traveler goes back to the turning point and follows it forward on the original timeline, we all return home to our preferred timeline, but the fascist dystopia still exists. If it could be said to exist while we were visiting it, it still exists now. How, then, is it a victory when the original timeline is restored?
+
+At their laziest, science fiction authors invoke Hugh Everett's many worlds hypothesis to explain the split timelines. Hugh Everett intended to explain the multi-valued nature of quantum properties (more on that later) by suggesting that every point in time is a split timeline. A particle that a quantum mechanic would say is "50% here, 50% there" is, in Everett's view, here in one universe and there in another; it's a low-level communication between diverging timelines that lets a particle appear to be in both places.
+
+Although that's a possible explanation of quantum entanglement, it should be considered a disaster for storytelling. Not only is our timeline as real as the fascist dystopia, but so is every tiny variation in between. There's a universe in which an electron in my shoulder jiggles left and a universe in which it jiggles right, and a whole history propagates from each one after the entanglement washes out and the timelines diverge. History is thick with forks. Not only can we choose our favorite timeline, but we have a continuum to choose from.
+
+If our hero escapes against 100-to-1 odds in one timeline, he didn't escape in the other 99. He didn't beat the odds. Storytelling becomes an exercise in selective reporting.
+
+### The problem quantum mechanics poses
+
+
+
+
+
+
+
+### Solutions to the problem quantum mechanics poses
+
+
+
+## Thoughts and Stuff
