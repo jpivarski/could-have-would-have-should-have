@@ -146,5 +146,15 @@ The problem, I think, is that it's hard to fit these wildly different things int
 
 So we've living in two realities. Taking this further, I would say that there's at least one more.
 
-### A third reality: explanation
+### A third reality: narrative
+
+Pure logic and pure empiricism are not what mathematicians or scientists do. A paper listing billions of addition statements as theorems would be logically verifiable (by computer) and even novel, but not interesting. A table of measurements of thermal fluctuations in a rock would be factual, but not interesting. Both of these examples miss the point of why mathematicians and scientists do what they do.
+
+The purpose of math and science is to explain things. An explanation is a story—a narrative—that steps from motivation to revelation in an emotionally satisfactory way. Just as a fictional story is not just "stuff that happens" (I'm deliberately excluding "slice of life" stories), a mathematical or scientific narrative has to come to a pleasing conclusion. Richard Feynman was fond of calling it the "pleasure of finding things out," because it is an emotional response. This is too often downplayed.
+
+To illustrate the significance of narrative, consider Johannes Kepler's attempt to explain why the five planets have the orbital ratios that they do. At the time (1597), only five planets were known to exist—Galileo's telescope hadn't yet revealed that there are smaller objects waiting to be discovered (1609). The number five suggested the five platonic solids (pyramid, cube, octahedron, dodecahedron, and icosahedron), so he tried to fit the orbits together by inscribing each of these solids inside the others. It didn't quite work: he was thwarted by good enough empirical measurements and his own honesty to see that the orbits don't exactly fit together this way, but it would have been a very pleasing conclusion if they had. By logical arguments, the five platonic solids are known to be the only ones that can exist, which would make a good punchline for the story of the five planets.
+
+Today, however, we know about Uranus and Neptune, as well as countless objects from the size of Pluto and Ceres down to grains of dust. There's no fact of "five planets" to explain. As for their orbits, we know that they changed in the early solar system (Jupiter was moving inward before Saturn pulled it back) and that the whole thing formed from a chaotic swirl of dust. The distributions of orbits are interesting, not just in our solar system, but solar systems in general, as well as statistical features of the dynamics, but an exact play-by-play of which rock hit which other rock to give us the current solar system would not be interesting. If somebody managed to work it out, the paper would be called a "tour de force," but would not be read.
+
+A similar shift in narrative may be happening right now in particle physics.
 
