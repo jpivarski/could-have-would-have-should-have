@@ -116,6 +116,8 @@ Ironically, quantum mechanics doesn't break causality; it might have just saved 
 
 ## Thoughts and Stuff
 
+### Two different kinds of reality
+
 Western philosophy is obsessed with the distinction between ideals—objects of thought—and empirical objects of the natural world. Statements about ideals can be proven without making any observations (_a priori_): a mind can discover them in isolation. Statements about the natural world require observations (_a postiori_). As a kind of shorthand, I think of them as "math" and "physics," though ideals are more general than math and the physical world is more general than physics. Instead, perhaps we could call them Thoughts and Stuff.
 
 This distinction is an important one to make. In fact, it's important just to recognize these categories and that each one has a method. Before classical Greece, the Egyptians had geometry and fractions, Babylonians had a square root formula and the Pythagorean theorem, and many cultures had weights and measures, but the Greeks, particularly Aristotle and Euclid, developed mathematical thinking into a rigorous method called proof.
@@ -128,16 +130,21 @@ Today, computers provide an even stronger illustration of the objectivity of log
 
 Despite the power of proof for pure logic, it is insufficient for statements concerning the natural world. Aristotle's syllogisms were spot on but his physics was not. For instance, he argued that the Earth was motionless with the stars and planets rotating around it because (a) things fly off spinning objects, (b) if the Earth moved, it would leave flying birds behind, and (c) the relative angles between stars would change over the course of a year ("parallax"). All of these are common-sense postulates, but careful observation would show that they are all wrong: (a) the Earth doesn't spin _enough_ for objects to fly off of it, just some mild oblateness at the equator, (b) velocities of relative motions are additive, not absolute, and (c) the parallax effect is real but small because stars are very, very far away. The logic was perfectly sound; the facts were not.
 
+Much like the development of logical proof in classical Greece, a scientific method developed in the Italian renaissance to put statements about the natural world on a firm footing. The central idea of this new scientific method was the use of experiments as interventions in nature. The classical and medieval method of discovering facts about the natural world was to passively observe it; scientists like Galileo actively modified an isolated environment to make general statements about the world.
 
+For example, Galileo's claim that objects fall with identical acceleration, regardless of their weight, derived from experiments with polished balls sliding down planes. (Not a demonstration at the tower of Pisa; that was probably a thought experiment.) His opponents were understandably skeptical: Galileo described a complex procedure to polish the balls thoroughly, removing the effect of friction—how could such a specialized environment apply to the whole universe? And yet it's exactly what you need to do to isolate one effect from another in the complex natural world. Friction, in particular, confounded medieval physics: the many theories of motion (additive, multiplicative, and even logarithmic) grappled with the fact that moving objects slow down on their own. Removing friction made the basic laws of motion plain; friction could be reintroduced as a complication, rather than an essential feature.
 
+The scientific method is still evolving, just as logical proof is evolving with the introduction of computers. Precise measurements were recognized as important early on: Aristotle was wrong about objects flying off the spinning Earth and the parallax effect only in a matter of degree. Statistical inference only became common in the 20th century. Sciences involving humans are aided by double-blind procedures, and blinding is becoming common in particle physics as well, to avoid the risk of _post hoc_ bias: rationalizing an observed result.
 
+My main point, however, is that statements about logic are fundamentally different from statements about the natural world. The method for discovering logical truths doesn't work when applied to physical truths and vice-versa.
 
+This has been called the two prongs of Hume's fork and has occupied a lot of Western philosophy. The point where I think the contrast breaks down is when a philosophical system claims that objects of pure thought are real and the physical world is but a shadow, or the reverse: that there is naught but atoms and the void. Team Thought has had its adherents, such as Plato and Bishop Berkeley, and Team Stuff has had its own, such as Democritus and Hobbes.
 
+The problem, I think, is that it's hard to fit these wildly different things into the same word, "real." If you're in a mode where you're thinking of mathematical objects as real because they're untarnished by mismeasurement and inductive reasoning, then the physical world is not real in the same sense. But if you're thinking of physical objects as real because they are external to our minds, then the world of logic is not real in the same sense.
 
+"Real" is just a word; we attach words to clusters of similar things, and it's a stretch to attach the same word to these two clusters, so how about two words? I like "valid" for logical truth and "factual" for physical truth. Saying that a logical statement is valid emphasizes that it's a connection from its premises to its conclusions, and saying that a physical statement is factual emphasizes that it's external to our minds.
 
--------------
+So we've living in two realities. Taking this further, I would say that there's at least one more.
 
-The point where I think the contrast breaks down is when a philosophy claims that ideals are real and the physical world is but a shadow, or that there is naught but atoms and the void. Team Thought has had its adherents, such as Plato and Bishop Berkeley, and Team Stuff has had its own, such as Democritus and Hobbes. They're certainly different, so much so that it doesn't make sense to use the same word, "real," for both. How about "valid" and "factual?"
-
-
+### A third reality: explanation
 
