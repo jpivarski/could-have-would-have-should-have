@@ -168,9 +168,20 @@ Narratives are not as objective as the scientific method or mathematical proof. 
 
 ### Models
 
-Explanations lay on a spectrum of rigor with (good) scientific explanations on one end and the truth of fiction or art on the other. I've been using the word "narratives" because I believe that scientific explanations are similar in kind to stories, but differ in rigor.
+Like scientific explanations, narratives in fiction come to some sort of conclusion, though it can be hard to say what that conclusion is. Sometimes, it's a feeling of conclusiveness that is similar to the feeling of conclusiveness that a scientific explanation provides, but without involving empirical facts.
 
-Like scientific explanations, stories answer some "why" question even when they're not creation myths, just-so stories, or even when it's hard to identify what the exact "why" question is.
+In general, there's a spectrum:
+
+   * At one end are scientific models, to be described below.
+   * Close in magnitude are stories that are fictitious explanations, such as creation myths and just-so stories like _How the Leopard Got His Spots_. If they are believed to be true, they are essentially science, though they may be incorrect or lacking in methodology. If these stories are told with the understanding that they are not true, yet have some other kind of value (e.g. Rudyard Kipling's intention in his just-so stories), then they're further along in the spectrum.
+   * Next are fables with a stated moral, such as Æsop's Fables or "With great power comes great responsibility" (_Spiderman_).
+   * Beyond that are stories that obviously address a question, such as "Can men and women be friends?" in _When Harry Met Sally_, but what it says is more than just "yes" or "no."
+   * Soon after that, the topic is a theme, such as _Crime and Punishment_, but not a clearly phrased question. The treatment can be much more nuanced.
+   * Some stories are more like ruminations. For instance, a plot summary of _Kiki's Delivery Service_ would sound like an unguided series of events, but there's an unspoken connection between them. Coming-of-age stories are often like that.
+   * Finally, stories like _Waiting for Godot_ are intentionally absurdist. They're often given as examples of modern detachment from meaning, like John Cage's _4:33_ (a musical composition that is silent for that length of time), but despite the random dialogue, the play's randomness _is_ its point. So it's still not devoid of meaning: it's trying to make a statement about lack of meaning. When everything repeats itself in the secnd act, indicating that it will go on and on meaninglessly, the repeated dialog is truncated—only enough is given to communicate to the audience that there is a cycle, and then the play itself stops.
+
+True slice of life plots, generated without any point at all, are not stories. They're the negation that proves the rule. Like randomly generated music, it illustrates where the boundary is.
+
 
 
 
