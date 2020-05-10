@@ -162,3 +162,21 @@ It seems like string theory is out of the game of predicting why we have the par
 
 This new narrative is highly controversial. It's called the "anthropic principle" and many physicists haven't signed onto it. To accept it would be to give up hope of a complete explanation, some fundamental principle that explains why we have the particles we see—and only those—as a necessary derivation. But like Kepler's five planets, maybe there isn't something to explain.
 
+Like statements of validity and statements of empirical fact, narratives can be true or false. Ptolemaic models of the solar system with circular orbits and epicycles upon epicycles could fit all of today's experimental measurements by adding yet more epicycles, but elliptical orbits are more true, and general relativity is even more true. The method of determining the truth of a scientific narrative is as different from the scientific method as the scientific method is from mathematical proof. When an explanation is free from logical flaws and agrees with all measurements, the arguments for it involve words like "simplicity," "beauty," or at least "concordance."
+
+Narratives are not as objective as the scientific method or mathematical proof. It's not as clear that narratives are as free from bias, fashion, or cultural dependence as statements of validity or empirical fact. But there was a time when people studied the natural world without a scientific method, and a time when people studied math without formal proof. Narratives might not have had their scientific revolution yet.
+
+### Models
+
+Explanations lay on a spectrum of rigor with (good) scientific explanations on one end and the truth of fiction or art on the other. I've been using the word "narratives" because I believe that scientific explanations are similar in kind to stories, but differ in rigor.
+
+Like scientific explanations, stories answer some "why" question even when they're not creation myths, just-so stories, or even when it's hard to identify what the exact "why" question is.
+
+
+
+
+
+
+
+
+### Causality is in the model, not the data
