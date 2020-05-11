@@ -190,11 +190,22 @@ Scientific explanations are as specific as possible. In the first few centuries,
 
 An explanation that is explicit about its mathematical form is called a model. Models are postulates in the language of validity, but what they describe or predict points back to what experiments would measure. We can make valid statements about a model that we know is inconsistent with the facts, but there isn't much we can do with a model that is internally inconsistent.
 
+Models are increasingly being distinguished from the reality they're supposed to represent. In this, particle physics might be behind the times. Although we summarize our current understanding of particles and their interactions in an explanation called the Standard Model, we still expect some improvement upon the Standard Model to be _the_ model of everything, the Weltformel that "really is" what drives the universe. I worked for a few years in data science, and found their cavalier attitude toward models shocking: models were invented to fit data for a specific purpose, such as predicting the value of a stock, and weren't intended to explain what's really going on or even to accurately predict quantities that were not of interest.
+
+This seems to be happening in most of the sciences, as far as I can tell: models are proposed as always-provisional substitutes for the ultimate truth, designed for specific purposes. With some perspective, I noticed that particle physics does this too—some theories are too complex to mathematically evaluate (quantum chromodynamics), so an effective model, known to be untrue at its core, is used to perform calculations in the regime where it's a good approximation.
+
+Just as the scientific method is a set of best practices for discovering empirical facts and formal proof is a method for determining truth in logic, model-building may be an emerging method that makes explanations objective. There are ways to express the simplicity of a model other than words like "beauty," such as the Akaike information criterion, which counts the number of free parameters in the model. Hundreds of epicycles might yield a good fit to planetary orbits in the solar system, but elliptical orbits use far fewer parameters.
+
+There's more to a good model than fitting data while minimizing the number of parameters, however. Traditionally, we'd say that a better model is "closer to the truth," but perhaps this could be expressed as the ability to use a model to find the next (more deeply satisfying) model. Elliptical orbits are better than epicycles because the reason for an ellipse can be explained by the next model, Newton's law of gravitation, which predicts that orbits will be conic sections (circle, ellipse, parabola, and hyperbola). Although the Newtonian model doesn't explain very fast, very massive, or very small phenomena, it is an excellent model and can even be considered correct in its regime. It is a better model than, say, Descartes's vortex model of the solar system, not just in the accuracy of its predictions, but in the fact that it provided a springboard to the next models: relativity and quantum mechanics.
 
 
 
 
 
+
+
+
+all empirical statements are model laden
 
 
 ### Causality is in the model, not the data
