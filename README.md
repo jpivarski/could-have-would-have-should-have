@@ -198,14 +198,14 @@ Just as the scientific method is a set of best practices for discovering empiric
 
 There's more to a good model than fitting data while minimizing the number of parameters, however. Traditionally, we'd say that a better model is "closer to the truth," but perhaps this could be expressed as the ability to use a model to find the next (more deeply satisfying or more widely applicable) model. Elliptical orbits are better than epicycles because the reason for an ellipse can be explained by the next model, Newton's law of gravitation, which derives orbits as conic sections (circle, ellipse, parabola, and hyperbola). Although the Newtonian model doesn't explain very fast, very massive, or very small phenomena, it is an excellent model and can even be considered correct in its domain. It is a better model than, say, Descartes's vortex model of the solar system, not just in the accuracy of its predictions, but in the fact that it provided a springboard to the next models: relativity and quantum mechanics.
 
+Speaking in terms of models makes us conscious of the fact that we don't have direct knowledge of physical reality. There have always been philosophical weak points in the scientific method, such as the weakness of the inductive principle: "If the sun rises every morning for thousands of years, does that mean that it will rise tomorrow?" Logically, no, but this is the kind of objection that needs to be swallowed to do science: we take a lot of measurements of a statistically fluctuating quantity and assume that we have a representative distribution. Every discovery these days is expressed in terms of the statistical probability that it might be a fluctuation: readers can decide if they're willing to interpret it as a billion-to-one fluke.
 
+In terms of models, I would answer the question about the sun rising tomorrow as, "I believe it will rise because of what I know about the Earth's rotation." It is the model, not the dataset of sunrises, that is the basis of my belief. The model, in turn, is supported by thousands of other considerations, such as Foucault's pendulum and satellite photos of the Earth as it spins in space. All of the empirical measurements that support models and the models that determine the interpretation of measurements form an interconnected web. I'm highly confident of the parts that fit together well and less confident of the parts that don't.
 
+Nevertheless, there is a circularity that would not be allowed in pure logic: we can't make a direct empirical measurement that is not interpreted in terms of a prevailing model. We might say that a magnetic field strength is 5 Tesla, but that depends on an understanding of how our field-measuring device works. We might say that the current through the field-measuring device is 7 Amps, or even that the head of a needle is close to the inkblot that looks like the number "5," but even the latter is based on the interpretation that the needle is a coherent object that is free to move and the position of its head is relevant for measuring the magnetic field.
 
-
-
-
-
-all empirical statements are model laden
-
+All of our measurements are model-dependent, and all of our models are supported by measurements. The fact that models do not claim to be truth helps to be explicit about this circularity, so that it can be unwound when a model fails.
 
 ### Causality is in the model, not the data
+
+The reason I introduced statements of validity, statements of empirical fact, and statements of explanation is to say where causality comes in. Causality is not an empirical fact; it is part of a model. Causality is an explanation.
