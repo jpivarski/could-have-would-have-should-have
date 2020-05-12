@@ -209,3 +209,9 @@ All of our measurements are model-dependent, and all of our models are supported
 ### Causality is in the model, not the data
 
 The reason I introduced statements of validity, statements of empirical fact, and statements of explanation is to say where causality comes in. Causality is not an empirical fact; it is part of a model. Causality is an explanation.
+
+TEST TEST TEST
+
+![](figure-1.svg)
+
+TEST TEST TEST
