@@ -220,8 +220,8 @@ Theories of causality as a relationship between possible worlds, rather than the
 
 Causality and counterfactuals has received a lot of attention among philosophers recently. Judea Pearl refers to it as a "Causal Revolution," bouncing back from the mantra of "correlation does not imply causation" that undermined discussions of causality in science throughout the 20th century. If you haven't heard of it, you're not alone: I doubt this activity is visible in the scientific fields that it directly addresses, let alone the general public, but it should be. In my work in physics and statistics, I only occasionally encountered the statistical "do" operator, one of the concrete tools that came out of this work.
 
-To illustrate how these theories generally work, let's take an example from Judea Pearl's _The Book of Why_. A citizen in an authoritarian country commits a crime, a judge condemns him to death, a military captain orders a firing squad to shoot him, each soldier fires, and the prisoner dies. The series of events could be drawn as a graph:
+To illustrate how these theories generally work, let's take an example from Judea Pearl's _The Book of Why_. A prisoner in an authoritarian country commits a crime, a judge condemns him to death, a military captain orders a firing squad to shoot him, each soldier fires, and the prisoner dies. The series of events could be drawn as a graph:
 
 ![](figure-1.svg)
 
-
+This graph is a mathematical object motivated by empirical observations. To get to this point, we have summarized what we know about how things work in this authoritarian country, but the graph itself is an object of pure thought.
