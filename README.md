@@ -16,7 +16,7 @@ They're not just probabilistic, but they can involve atemporal influences. In th
 
 These atemporal shenanigans have led many to say that quantum mechanics breaks causality. The way 19th century physicists thought nature worked, particles could only travel forward in time and each event happened because of the previous. The discovery of quantum mechanics in the early 20th century revealed that those commonsense assumptions were too strong.
 
-However, I think we're using the wrong word. Quantum mechanics broke determinism, not causality. Consider a statement of causality like, "If I push this glass, it will fall and smash on the floor." In a classical (19th century) view of physics, everything from the pushed glass to the toppling over and smashing on the floor is deterministic: particles in the glass are attracted to the center of the Earth, they accelerate according to prescribed laws of motion, and even the smashing is a complex but deterministic process. It would be possible to describe the trajectory of each shard of glass and how it spins as it moves as a mathematical function. In fact, modern video games demonstrate this well: computers evaluate the formulae discovered by classical physicists, producing scenes that look just like real glasses falling off real tables.
+However, I think we're using the wrong word. Quantum mechanics broke determinism, not causality. Consider a statement of causality like "If I push this glass, then it will fall and smash on the floor." In a classical (19th century) view of physics, everything from the pushed glass to the toppling over and smashing on the floor is deterministic: particles in the glass are attracted to the center of the Earth, they accelerate according to prescribed laws of motion, and even the smashing is a complex but deterministic process. It would be possible to describe the trajectory of each shard of glass and how it spins as it moves as a mathematical function. In fact, modern video games demonstrate this well: computers evaluate the formulae discovered by classical physicists, producing scenes that look just like real glasses falling off real tables.
 
 The part classical physics leaves out is the "If I push this glass" clause. Some classical physicists were philosophical determinists: humans are made of atoms, which follow prescribed laws, so humans and their behaviors are prescribed as well. The human in this example couldn't _not_ push the glass. Other classical physicists thought there was a division in nature: human decision making is a divine spark, an input to nature's processes as much as a video game player is an exception to the simulation that governs everything else.
 
@@ -104,7 +104,7 @@ This is not 19th century determinism, in which all motions follow from a simple 
 
 Both of these extremes, many worlds and superdeterminism, are attempts to save determinism from atemporal influences: Jane the time-traveling particle. I can't object to them on physical grounds because they are interpretations that explain the same phenomena as standard quantum mechanics, but philosophically, they are wrong. They're wrong because they are pointless: these theories describe a world of automatons who cannot appreciate these theories. At best, they are theories that a solipsist (someone who thinks he is the only consciousness in the universe) can think about everybody else.
 
-The reason it's useful to consider the many worlds theory and superdeterminism is because they show exactly what is missing when you try to define causality in a deterministic worldview. Causality, the idea behind "if I push this glass, then it will fall and smash on the floor," needs two things: (1) a distinction between the real world and possible worlds, and (2) the idea that experimenters can make choices.
+The reason it's useful to consider the many worlds theory and superdeterminism is because they show exactly what is missing when you try to define causality in a deterministic worldview. Causality, the idea behind "If I push this glass, then it will fall and smash on the floor," needs two things: (1) a distinction between the real world and possible worlds, and (2) the idea that experimenters can make choices.
 
 There is no causality in the many worlds theory because the glass falls and it also does not fall, each in different universes. There is a one-to-one relationship between the pushing and the smashing (mostly: there are small quantum probabilities for just about everything). But this is a correlation, not a cause. Causes are actionable: if putting books in a child's home really does increase their chances of success, then let's get some books! But if both branches of the if-then are _always_ taken, then that's not what we mean by causality.
 
@@ -208,10 +208,21 @@ All of our measurements are model-dependent, and all of our models are supported
 
 ### Causality is in the model, not the data
 
-The reason I introduced statements of validity, statements of empirical fact, and statements of explanation is to say where causality comes in. Causality is not an empirical fact; it is part of a model. Causality is an explanation.
+All of this comes back to causality. If you remember from the introduction, I couldn't find anything like the causality of "If I push this glass, then it will fall and smash on the floor" in physics, regardless of whether it's deterministic, classical mechanics or random quantum mechanics. In a fully deterministic world, the glash-smashing and my hand-pushing are part of the same equation, the one doesn't cause the other any more than "2 + _x_ = 7" causes _x_ to be 5. Simply adding randomness to that, smearing out the probabilities from 0% and 100% to everything in between, doesn't help by itself.
 
-TEST TEST TEST
+To make the "if-then" part of the statement meaningful, we need conditional verb tenses: not just IS, but COULD BE. Like a statement of validity, this glass-pushing statement is a connective: it doesn't say that I do push the glass or that I don't, it's just saying what WOULD happen if I did. But unlike a statement of validity, it concerns the natural world. The glass-pushing statement is partly about gravity, something we wouldn't know about if we had no experience of the physical world.
 
-![](figure-1.svg)
+The "if-then" is not an empirical fact, either. To say, "I did push the glass and it did fall on the floor" would be an empirical fact, describing something that IS. But the relationship between pushing the glass and its consequences is stated in the abstract, not as a thing that happened.
 
-TEST TEST TEST
+This statement is an explanation. Like the narratives I described above, it connects the empirical world with logical deduction using a model: a mathematical description of tables, glasses, hands, and gravity that we can play forward or backward in our minds as a mathematical object. We could model it on a computer, a video game simulating the physics, and very concretely check the correctness of the statement by running the simulation both ways. But like a mathematical theorem, the correctness of the statement depends on the model as a postulate.
+
+Theories of causality as a relationship between possible worlds, rather than the real world, are surprisingly recent. According to the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/causation-counterfactual/), the earliest such theory is David Lewis's 1973 theory, barring an offhand statement by David Hume in 1748 that was never followed up on. I have trouble imagining what people thought "cause" meant for the first three thousand years, if not a relationship between possible worlds. Even Aristotle's four causes—material, formal, efficient, and final—implicitly address counterfactuals. (Negate each one: if the "final cause" of a bronze statue is that the artist wanted it to exist, this implicitly relies on the possibility that the artist could have not wanted it to exist, and it would not have been made. If you can't make that negation, then the final doesn't answer the question of why the statue exists. The same is true for the other three.)
+
+Causality and counterfactuals has received a lot of attention among philosophers recently. Judea Pearl refers to it as a "Causal Revolution," bouncing back from the mantra of "correlation does not imply causation" that dominated science in the 20th century. The public may be unaware of these developments, as well as most of the scientific communities that it is relevant for. In my work in physics and statistics, I only rarely saw references to a "do" operator, which is how this field describes causation in scientific experiments.
+
+
+
+
+
+
+<!-- ![](figure-1.svg) -->
