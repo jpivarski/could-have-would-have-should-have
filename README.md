@@ -218,11 +218,10 @@ This statement is an explanation. Like the narratives I described above, it conn
 
 Theories of causality as a relationship between possible worlds, rather than the real world, are surprisingly recent. According to the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/causation-counterfactual/), the earliest such theory is David Lewis's 1973 theory, barring an offhand statement by David Hume in 1748 that was never followed up on. I have trouble imagining what people thought "cause" meant for the first three thousand years, if not a relationship between possible worlds. Even Aristotle's four causes—material, formal, efficient, and final—implicitly address counterfactuals. (Negate each one: if the "final cause" of a bronze statue is that the artist wanted it to exist, this implicitly relies on the possibility that the artist could have not wanted it to exist, and it would not have been made. If you can't make that negation, then the final doesn't answer the question of why the statue exists. The same is true for the other three.)
 
-Causality and counterfactuals has received a lot of attention among philosophers recently. Judea Pearl refers to it as a "Causal Revolution," bouncing back from the mantra of "correlation does not imply causation" that dominated science in the 20th century. The public may be unaware of these developments, as well as most of the scientific communities that it is relevant for. In my work in physics and statistics, I only rarely saw references to a "do" operator, which is how this field describes causation in scientific experiments.
+Causality and counterfactuals has received a lot of attention among philosophers recently. Judea Pearl refers to it as a "Causal Revolution," bouncing back from the mantra of "correlation does not imply causation" that undermined discussions of causality in science throughout the 20th century. If you haven't heard of it, you're not alone: I doubt this activity is visible in the scientific fields that it directly addresses, let alone the general public, but it should be. In my work in physics and statistics, I only occasionally encountered the statistical "do" operator, one of the concrete tools that came out of this work.
+
+To illustrate how these theories generally work, let's take an example from Judea Pearl's _The Book of Why_. A citizen in an authoritarian country commits a crime, a judge condemns him to death, a military captain orders a firing squad to shoot him, each soldier fires, and the prisoner dies. The series of events could be drawn as a graph:
+
+![](figure-1.svg)
 
 
-
-
-
-
-<!-- ![](figure-1.svg) -->
