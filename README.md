@@ -228,4 +228,6 @@ The graph is a mathematical object motivated by empirical observations. It is no
 
 Let's say that we want to discover causal relationships about this country by looking at its court records. In some cases, judges don't convict the prisoners. In others, captains disobey their orders. In yet others, soldiers disobey their orders. The dataset is consistent with the above model, but the dataset does not prove the model, nor is the dataset equivalent to the model.
 
-Judea Pearl's focus is the inadequacy of machine learning algorithms to discover causal relationships because they only generalize correlations. By looking at the dataset alone, a typical machine learning algorithm would equally accept a model in which the prisoner's death causes all of the soldiers to shoot him: these events are 100% correlated.
+Judea Pearl's focus is on the inadequacy of machine learning algorithms to discover causal relationships because they only generalize correlations. By looking at the dataset alone, a typical machine learning algorithm might conclude that a soldier shooting has a 20% effect on the prisoner's death, a conclusion that convolutes the "if any soldier shoots, he dies" causal relationship with the probabilities of soldiers shooting.
+
+What machine learning doesn't do is 
