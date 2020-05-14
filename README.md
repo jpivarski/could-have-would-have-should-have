@@ -230,4 +230,16 @@ Let's say that we want to discover causal relationships about this country by lo
 
 Judea Pearl's focus is on the inadequacy of machine learning algorithms to discover causal relationships because they only generalize correlations. By looking at the dataset alone, a typical machine learning algorithm might conclude that a soldier shooting has a 20% effect on the prisoner's death, a conclusion that convolutes the "if any soldier shoots, he dies" causal relationship with the probabilities of soldiers shooting.
 
-What machine learning doesn't do is 
+What machine learning doesn't do is consider alternate worlds—what could have happened instead of what did. In thinking about the above example, it's natural for humans to imagine, "What if the captain disobeyed the order?" (The prisoner would not be shot.) "What if one solider disobeyed orders and the others didn't?" (The prisoner would be shot.) We can ask these questions independently of the fraction of times captains and soldiers actually choose to disobey.
+
+To determine causal relationships for certain, we need to experiment. We need to be able to run the process, forcing the captain to give or not give the order, to see that the captain has complete control over whether the prisoner dies. (In this model, that is—in a real scenario, a captain might be replaced. There are more arrows!) Similarly, we can force a soldier to shoot or not shoot and see that a single soldier does not determine whether the prisoner dies.
+
+This is the essence of the "do" operator. Whereas a traditional statistical analysis would look at conditional probabilities, such as the fraction of cases in which one soldier refuses to shoot AND the prisoner does not die, the "do" operator lets us ask, "In what fraction of cases where we _force_ the soldier to not shoot does the prisoner die?" (It's written _P(y | do(x))_ for the probability of _y_ given that we force _x_ to happen.)
+
+Forcing one of the events as an external experimenter is different from cataloging the cases in which it occurs. If we do not make an intervention, the events might have hidden causes or they might be correlated for other reasons. If we can make a free choice to force one of the events to happen or not happen, however, then what follows is due to that event. We can use what we learn from "do" measurements to draw the arrows in the diagram.
+
+In the superdeterministic explanation of Bell's inequality, there's no causal relationship between the events; they're correlated because that's how the movie runs. Translating superdeterminism to this case, the soldiers shooting and the prisoner dying are independent events that just happen to occur together. In a superdeterministic world, there's no experimenter who can choose to alter the scenario and therefore we can't conclude any real causality.
+
+Obviously, this is an example of a situation that we can't really experiment on. For one thing, an IRB board would not consent to this use of human subjects. But beyond that, we can't actually make people act a specified way and even have a hard time controlling particles in a physics experiment. Furthermore, causal relationships can be partly obscured by probabilistic noise or a thousand influencing factors (lots of arrows), and we'd need to run the experiment many times to find an average effect. Without time travel, it can't be the same scenario each time—it has to be "identically prepared initial states" at the beginning of each measurement, 
+
+
