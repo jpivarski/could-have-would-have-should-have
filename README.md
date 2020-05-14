@@ -244,4 +244,14 @@ Obviously, this death-penalty scenario is something that we can't actually perfo
 
 Thus, these experiments are often thought-experiments. If we COULD change a soldier's action, what WOULD happen to the prisoner? The inference is imperfect just as explanations/models are not perfectly objective. We can and do draw causal inferences about scenarios that can't be directly experimented upon—such as astronomy—but we do it by identifying a correct or correct-enough model of the data and finding the causal relationships as logical consequences of that model. This is what I mean when I say that causality is in the model, not the data.
 
+I like these causal graphs in part because graphs are mathematical objects: it's clear that causal statements are model-dependent statements. But I also like them because they're more expressive than our language of causality. A soldier might say, "I did not cause the prisoner to die" because the soldier did not _exclusively_ cause the prisoner to die. There is a causal link from the soldier to the prisoner's death; it just happens to not be the only link. The judge might say to the prisoner, "You brought this on yourself by committing that crime," which is to say that the prisoner caused his own death. There is a causal link from the prisoner's action to his death, but it's mediated by many other links that are all required for the prisoner's death to occur. Our words fail us in ways that the graph does not.
 
+One reason I went ahead with this particularly gruesome example is that it relates to personal responsibility. Is the prisoner morally responsible for his death? Not exactly, because of the other links in the chain. Is a soldier morally responsible for the prisoner's death? That question is complicated by the fact that the graph is not just two dots with a single arrow, but it's possible to expand our language about these things to include that complexity.
+
+There are moral implications in this scenario, but only because there are causal relationships. A different set of causal relationships would imply different moral responsibilities. Morality, ethics, or personal responsibility, however you divide up these words, all depend on causality. Without being able to make sense of conditional tenses like COULD HAVE and WOULD HAVE, we would not be able to make sense of SHOULD HAVE.
+
+That's why this philosophical musing is more important than just defining a word in physics.
+
+## Could have, would have, should have
+
+HERE
