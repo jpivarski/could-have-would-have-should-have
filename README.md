@@ -254,4 +254,30 @@ That's why this philosophical musing is more important than just defining a word
 
 ## Could have, would have, should have
 
-HERE
+### How quantum doesn't work
+
+This view of causality is rather new, but very active. Judea Pearl's _Causality: Models, reasoning and inference_ (2000) is considered a foundational text. Most of the discussion focuses on machine learning, which is highly successful for some things, but fails for others, particularly those tasks that we'd describe with the word "insight." It motivates alternatives to or improvements upon traditional machine learning with probabilistic programming and explicit counterfactual models, much like the ones that run in our brains when we think about what would happen if I knock over a glass.
+
+However, I also find it interesting that this new view of causality requires the two features that the many worlds and superdeterminism interpretations of quantum mechanics deny. Unlike the many worlds interpretation, counterfactual reasoning draws a distinction between what COULD BE and what IS, and unlike superdeterminism, interventionist theories of causality require experimenters to be able to make choices for the results of an experiment to be interpreted as cause and effect.
+
+
+
+
+
+
+### How quantum works
+
+Kathryn Laskey, _Quantum Causal Networks_ (2007): Sequenced Association Graph (SAG), equivalence classes of undirected nodes are "CN-nets"
+
+Fabio Costa and Sally Shrapnel, _Quantum causal modelling_ (2016) and much activity thereafter
+
+Shrapnel thesis: _Using interventions to discover quantum causal structure_, great talk: http://carnap.umd.edu/philphysics/shrapnel.pdf
+
+
+
+
+### Using science to justify determinism
+
+
+
+### Should have
