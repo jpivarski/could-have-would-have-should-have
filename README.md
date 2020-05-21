@@ -254,16 +254,22 @@ That's why this philosophical musing is more important than just defining a word
 
 ## Could have, would have, should have
 
-### How quantum doesn't work
+### Quantum mechanics in the Causal Revolution
 
-This view of causality is rather new, but very active. Judea Pearl's _Causality: Models, reasoning and inference_ (2000) is considered a foundational text. Most of the discussion focuses on machine learning, which is highly successful for some things, but fails for others, particularly those tasks that we'd describe with the word "insight." It motivates alternatives to or improvements upon traditional machine learning with probabilistic programming and explicit counterfactual models, much like the ones that run in our brains when we think about what would happen if I knock over a glass.
+This idea of defining causality in terms of how possible worlds become actual worlds in response to interventions is rather new, but very active. Judea Pearl's _Causality: Models, reasoning and inference_ was written in 2000 (only 20 years ago now), but it is considered a foundational text.
 
-However, I also find it interesting that this new view of causality requires the two features that the many worlds and superdeterminism interpretations of quantum mechanics deny. Unlike the many worlds interpretation, counterfactual reasoning draws a distinction between what COULD BE and what IS, and unlike superdeterminism, interventionist theories of causality require experimenters to be able to make choices for the results of an experiment to be interpreted as cause and effect.
+Much of this new interest in causality is directed at machine learning, which, though successful, is mostly just generalizing from observed correlations. Machine learning has been so successful in the 21st century because the algorithms can be trained with extraordinarily large datasets containing nuanced correlations. However, correlations in datasets have none of the "if this, then that" understanding that characterizes human reasoning. The concern is that they may behave well when tested on smaller datasets than the training dataset, but no dataset is large enough to include examples of all the scenarios that millions of self-driving cars will encounter.
 
+It's interesting to see how philosophy has been invaded by computer scientists—it's not just the physicists anymore. Philosophical questions like, "What does 'insight' even mean?" have motivated alternatives to and modified versions of machine learning, to try to take it from mere correlations to something that could really be called "learning." Some of these include probabilistic programming and introducing explicitly counterfactual models into machine learning systems, so that they can answer questions about what WOULD happen if I knock over a glass, even if such an instance never happened in the training dataset.
 
+As a physicist (now feeling old-school), I find it interesting that the two key features of this new causality specifically deny the two ways to escape non-determinism from Bell's inequality: the many worlds interpretation and superdeterminism.
 
+   1. Causality requires counterfactuals, imagined worlds that COULD BE yet are distinct from the world that IS. The many worlds interpretation does not draw this distinction: every world that COULD BE, IS. The "do" operator is ineffective in a many worlds interpretation because for every world where you "do," there's another world where you "don't."
+   2. Causality requires the ability to run experiments intentionally. The whole idea of superdeterminism is that Alice and Bob were forced to dial their spin measurements to input settings that happened to result in a correlation. They thought they were applying the "do" operator, but but they were wrong.
 
+Both of these interpretations could be drawn as causal graphs: the many worlds interpretation of Bell's experiment fans out into many near-duplicate subgraphs, and superdeterminism is one event that points to all other events with no further interconnections. But in neither case can we apply the testing procedure Pearl described to discover that these arrows are justified: we can't break incoming arrows to an event and ask what would happen if we forced Alice to observe spin up or spin down.
 
+Both of these interpretations, specifically intended to save determinism, run afoul with causality.
 
 ### How quantum works
 
