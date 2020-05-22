@@ -254,7 +254,7 @@ That's why this philosophical musing is more important than just defining a word
 
 ## Could have, would have, should have
 
-### Quantum mechanics in the Causal Revolution
+### Implications of the Causal Revolution
 
 This idea of defining causality in terms of how possible worlds become actual worlds in response to interventions is rather new, but very active. Judea Pearl's _Causality: Models, reasoning and inference_ was written in 2000 (only 20 years ago now), but it is considered a foundational text.
 
@@ -271,7 +271,20 @@ Both of these interpretations could be drawn as causal graphs: the many worlds i
 
 Both of these interpretations, specifically intended to save determinism, run afoul with causality.
 
-### How quantum works
+### Quantum mechanics may be causal after all
+
+So what about the standard interpretation? In standard quantum mechanics, a property of a system like the record player's revolution rate is multi-valued until its value is measured. At that point, it takes on a single value and anything that depends on its past history, such as a tape recording of what the record player sounded like, behaves as though it had always had that single value. The record player and the tape recording may be very far apart, so this looks like 
+
+
+
+
+
+
+
+
+
+
+
 
 Kathryn Laskey, _Quantum Causal Networks_ (2007): Sequenced Association Graph (SAG), equivalence classes of undirected nodes are "CN-nets"
 
