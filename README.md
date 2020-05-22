@@ -273,7 +273,21 @@ Both of these interpretations, specifically intended to save determinism, run af
 
 ### Quantum mechanics may be causal after all
 
-So what about the standard interpretation? In standard quantum mechanics, a property of a system like the record player's revolution rate is multi-valued until its value is measured. At that point, it takes on a single value and anything that depends on its past history, such as a tape recording of what the record player sounded like, behaves as though it had always had that single value. The record player and the tape recording may be very far apart, so this looks like 
+So what about the standard interpretation? In standard quantum mechanics, a property of a system like the record player's revolution rate is multi-valued until its value is measured. At that point, it takes on a single value and anything that depends on its past history, such as a tape recording of what the record player sounded like, behaves as though it had always had that single value. The record player and the tape recording may be very far apart, too far for a speed-of-light signal to get from one to the other.
+
+Due to what we know about relativity, there are valid frames of reference in which Alice checks the record player dial before Bob listens to the recording and equally valid frames of reference in which Bob listens before Alice checks the dial. Either one could be said to happen before the other.
+
+Relativity forbids us from drawing an arrow from the record player measurement to the tape recording measurement or vice-versa, and Bell's inequality forbids us from drawing a common node pointing to both. This situation does violate Reichenbach's Common Cause Principle, which states that these are the only ways to get a correlation between A and B: A → B, B → A, and C → A and C → B.
+
+Kathryn Laskey's _Quantum Causal Networks_ (2007) presents what I think is a fantastic solution: she adds undirected lines to the graph. Judea Pearl's classical causal graphs involve only directed arrows that are not allowed to form any circular chains, which would be the time-travel paradoxes of science fiction. This is known in computer science as a Directed Acyclic Graph (DAG). Kathryn Laskey's quantum causal graphs have undirected lines and directed arrows with two definitions and a rule:
+
+   1. A and B are _contemporaneous_ if there is an undirected line between A and B or a chain of undirected lines between A, B, and C. (That is, undirected lines are an equivalence relation.)
+   2. A _precedes_ B if there is a directed arrow from A to B or a chain of such arrows from A to B to C. (That is, directed arrows are transitive.)
+   3. There are no nodes A and B such that (i) A precedes B and (ii) B precedes or is contemporaneous with A.
+
+The first part of the rule (i) forbids time-travel paradoxes, but the second part (ii) prevents the use of quantum information as faster-than-light communication (which is also an experimental fact). This kind of a graph is called a Sequenced Association Graph (SAG).
+
+Here's what it looks like for our example:
 
 ![](figure-2.svg)
 
@@ -286,7 +300,7 @@ So what about the standard interpretation? In standard quantum mechanics, a prop
 
 
 
-Kathryn Laskey, _Quantum Causal Networks_ (2007): Sequenced Association Graph (SAG), equivalence classes of undirected nodes are "CN-nets"
+
 
 Fabio Costa and Sally Shrapnel, _Quantum causal modelling_ (2016) and much activity thereafter
 
