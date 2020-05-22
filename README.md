@@ -307,7 +307,7 @@ Yet it is common to think of determinism as the "scientific" outlook. Science fi
 
 Determinists are on better ground when they point to biology or neuroscience to justify a lack of free will. Monitors of brain activity like fMRI scans show parts of the brain actively churning while test subjects believe they are making free choices. Drugs and physical conditions like fatigue affect these decisions in semi-predictable ways.
 
-And yet, if we conclude from those experiments that the drug causes the decision and the test subject was not a free agent, then what about the neuroscientist's free will in designing the experiment? If the neuroscientist was forced by physical laws to perform the experiment in a prescribed way, how is it rational to infer that the results of the experiment are statistically unbiased?
+And yet, if we conclude from those experiments that the drug causes the decision and the test subject was not a free agent, then what about the neuroscientist's free will in designing the experiment? If the neuroscientist was forced by physical laws to perform the experiment in a prescribed way, how is it rational to infer that the results of the experiment are statistically unbiased? (Karl Popper wrote about this in _Conjectures and refutations_ (1963).)
 
 I think a lot of 19th century scientists who presented the world in deterministic terms thought of themselves, the scientists or humans in general, as exempt from the natural laws. It's not inconsistent to model the world as a video game, with some actions following strict mathematical laws and others being input to the system from a keyboard or a game controller. But the first question that raises is, "Who's a playable character, and who isn't?"
 
