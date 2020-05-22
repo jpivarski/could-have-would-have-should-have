@@ -275,7 +275,7 @@ Both of these interpretations, specifically intended to save determinism, run af
 
 So what about the standard interpretation? In standard quantum mechanics, a property of a system like the record player's revolution rate is multi-valued until its value is measured. At that point, it takes on a single value and anything that depends on its past history, such as a tape recording of what the record player sounded like, behaves as though it had always had that single value. The record player and the tape recording may be very far apart, so this looks like 
 
-
+![](figure-2.svg)
 
 
 
