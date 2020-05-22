@@ -291,23 +291,13 @@ Here's what it looks like for our example:
 
 ![](figure-2.svg)
 
+We have a chain of causes from the past (top) to the future (bottom) from the tape recorder recording the record player to Alice and Bob taking their measurements and comparing them, but the influence between the record player and the tape recorder at the time of measurement is of a different type—it's not a cause in the same sense. It's symmetric between Alice's measurement and Bob's measurement.
 
+As an equivalence relation, we could even say that the Alice's measurement and Bob's measurement are the same event: the SAG could be seen as a DAG in which events are stretched from instantaneous space-time points into distributed sets of points, as long as all the points in the set are too distant for speed-of-light communication ("spacelike" in physicist's jargon; "CN-sets" in Laskey's). It would not be the first instance in which quantum mechanics forced us to expand point-like things into clouds.
 
+Kathryn Laskey goes on to show how Judea Pearl's "do" operators can be used to perform interventions in this system and derive causal conclusions from experiments. While I find Laskey's treatment appealing, this is an active area of research with even more ideas floating around. Fabio Costa and Sally Shrapnel's _Quantum causal modelling_ (2016) describe a system without two types of lines (everything is a directed arrow, in a way that I don't quite understand) and their model seems to be more popular. Shrapnel's thesis, _Using interventions to discover quantum causal structure_, and [presentation](http://carnap.umd.edu/philphysics/shrapnel.pdf) are a good introduction.
 
-
-
-
-
-
-
-
-
-Fabio Costa and Sally Shrapnel, _Quantum causal modelling_ (2016) and much activity thereafter
-
-Shrapnel thesis: _Using interventions to discover quantum causal structure_, great talk: http://carnap.umd.edu/philphysics/shrapnel.pdf
-
-
-
+So despite all the talk of quantum mechanics being acausal, there's even more than one way to define causality for quantum systems.
 
 ### Using science to justify determinism
 
