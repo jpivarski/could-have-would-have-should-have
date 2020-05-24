@@ -100,11 +100,11 @@ An electron's spin, like the quantum record player, is quantized: it can either 
 
 Bell's Inequality actually concerns these in-between correlations—Alice measures relative to a vertical axis and Bob measures along some diagonal. If Alice and Bob agree ahead of time what angles they will choose, the electrons might overhear them and pick spin values along these axes that correlate appropriately. Thus, Alice and Bob must choose their axes of measurement on the fly, after they're already separated by a great distance, and they must make their choices rapidly enough that secret messages can't be passed between the particles. The crux of the argument is that Alice and Bob are free to choose what experiments they perform.
 
-Here's the alternative theory that exploits this loophole: superdeterminism. In a superdeterministic universe, everything is predetermined, including the choices that Alice and Bob make, and it forces their hand in such a way that they _happen to choose_ combinations that look like standard quantum mechanics.
+Here's the alternative interpretation that exploits this loophole: superdeterminism. In a superdeterministic universe, everything is predetermined, including the choices that Alice and Bob make, and it forces their hand in such a way that the experimenters themselves _happen to choose_ combinations that look like standard quantum mechanics.
 
-This is not 19th century determinism, in which all motions follow from a simple mathematical law; it forces complex structures, such as human beings, to participate in a pageantry that would otherwise resemble a simple non-deterministic law. It's not the determinism of a clockwork or a wave, it's the determinism of a movie on a computer, in which the colors of each pixel in each frame are fixed from the beginning. It is a movie created by a trickster god to trick the entities on the frames who don't have any capacity for independent thought.
+This is not 19th century determinism, in which all motions follow from a simple mathematical law. Superdeterminism forces complex structures, such as human beings, to participate in a pageantry that would otherwise resemble a simple non-deterministic law. It's not the determinism of a clock or a wave, it's the determinism of a video played on a computer, in which the colors of each pixel in each frame are fixed from the beginning. It is a movie created by a trickster god in order to trick the entities on the frames of this movie, who don't have any capacity for independent thought anyway.
 
-Both of these extremes, many worlds and superdeterminism, are attempts to save determinism from atemporal influences: Jane the time-traveling particle. I can't object to them on physical grounds because they are interpretations that explain the same phenomena as standard quantum mechanics, but philosophically, they are wrong. They're wrong because they are pointless: these theories describe a world of automatons who cannot appreciate these theories. At best, they are theories that a solipsist (someone who thinks he is the only consciousness in the universe) can think about everybody else.
+Both of these extremes, many worlds and superdeterminism, are attempts to save determinism from atemporal influences: Jane the time-traveling particle. I can't object to them on physical grounds because they are interpretations that explain the same phenomena as standard quantum mechanics, but philosophically, they are wrong. They're wrong because they are pointless: these theories describe a world of automatons who cannot appreciate these theories. At best, they are theories that a solipsist (someone who thinks he is the only consciousness in the universe) might think about everybody else.
 
 The reason it's useful to consider the many worlds theory and superdeterminism is because they show exactly what is missing when you try to define causality in a deterministic worldview. Causality, the idea behind "If I push this glass, then it will fall and smash on the floor," needs two things: (1) a distinction between the real world and possible worlds, and (2) the idea that experimenters can make choices.
 
@@ -114,7 +114,7 @@ Much more so for superdeterminism: this theory denies that any choices are possi
 
 Quantum mechanics didn't introduce these problems—they were present in 19th century determinism because they are problems with determinism. However, they are brought to the fore by attempts to save determinism from quantum mechanics.
 
-Ironically, quantum mechanics doesn't break causality; it might have just saved it.
+Ironically, quantum mechanics didn't break causality; it might have just saved it.
 
 ## Thoughts and Stuff
 
