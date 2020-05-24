@@ -15,7 +15,7 @@
 3. [Could have, would have, should have](#could-have-would-have-should-have-1)
    1. [Implications of the Causal Revolution](#implications-of-the-causal-revolution)
    2. [Quantum mechanics may be causal after all](#quantum-mechanics-may-be-causal-after-all)
-   3. [Using science to justify determinism](using-science-to-justify-determinism)
+   3. [Using science to justify determinism](#using-science-to-justify-determinism)
    4. [And finally, the SHOULD HAVE](#and-finally-the-should-have)
 
 ## If correlation does not imply causality, what does?
