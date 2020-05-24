@@ -1,5 +1,12 @@
 # Could have, would have, should have
 
+Table of contents
+
+   1. [If correlation does not imply causality, what does?](#if-correlation-does-not-imply-causality-what-does)
+      a. [Introduction](#introduction)
+
+
+
 ## If correlation does not imply causality, what does?
 
 ### Introduction
