@@ -327,15 +327,9 @@ To categorize our decision-making, we label choices good and bad, or we put them
 
 So if we don't have a notion of what it means to cause something, we don't know what it means to be responsible for something. There are legal arguments about who should be held responsible if a self-driving car kills someone precisely because the algorithm is not an agent capable of free choice, so the algorithm can't be held liable. If we could demonstrate from physics that causality is an illusion just like the three primary colors (which is due to how primates perceive the frequencies of light, not an aspect of light itself), then all the legal systems and any sense of "should" are unfounded. We'd be arguing for one made-up concept over another.
 
-This was the problem that I had for many years of my life. Because I could not see how causality was real, I could not see how consequences for actions could be real, either. The arguments justifying behavior, the SHOULD BEs, are different in character from logical statements and demonstrations of empirical fact. The solution is that they belong to a third category of truth—explanations—that are true or false in a way that is as different from facts as facts are different from logic. Explanations are no less important than facts or logic—even science and math can't do without explanations, as they tie facts and logic up into something worth studying.
+This was the problem that I had for many years of my life. Because I could not see how causality was real, I could not see how consequences for actions could be real, either. The arguments justifying behavior, the SHOULD BEs, are different in character from logical statements and demonstrations of empirical fact. The reason is that they belong to a third category of truth—explanations—that are true or false in a way that is as different from facts as facts are from logic. Explanations are no less important than facts or logic—even science and math can't do without explanations, as they tie facts and logic up into something worth studying.
 
 That causality is an explanation and not a fact or a theorem can be seen by how it is studied, as thought experiments on _models_. Computing a probability with the "do" calculus requires that you have a mathematical model to manipulate. Experiments in the real world prove causality only inasmuch as they uphold or eliminate alternatives to a model of the real world, and causal relationships can be derived from the model.
 
+To see how much this bothered me, look at [Jim Pivarski's Manifesto](http://pivarski.watson.org/manifesto.html) from 2006. I had a handle on the dichotomy between Thoughts and Stuff, but the rest was a swirling mass of religious imagery. It was written seven years after I had converted to Catholicism (before which I had been a Camus-groupie Existentialist). I'm still a practicing Catholic, but I use religious language sparingly because it doesn't communicate what I want to communicate—everyone has a different notion of what the same words mean. Within a few years of writing that article, it was praised by the leader of a Christian book-club and the president of an Atheist's club for upholding each of their points of view. (Re-reading the _Myth of Sisyphus_, I'm reminded why I don't use the words "suicide" and "absurd" in conversation the way I use them internally—they would be taken to mean something else.)
 
-
-
-
-
-
-
-http://pivarski.watson.org/manifesto.html
