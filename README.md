@@ -192,6 +192,12 @@ Scientific explanations are distinguished by being as specific as possible. In t
 
 An explanation that is explicit about its mathematical form is called a model. Models are postulates in the language of validity, but what they describe or predict points back to what experiments would measure. We can make valid statements about a model that we know is inconsistent with the facts, but there isn't much we can do with a model that is internally inconsistent.
 
+
+
+HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE HERE
+
+
+
 Models are increasingly being distinguished from the reality they're supposed to represent. In this, particle physics might be behind the times. Although we summarize our current understanding of particles and their interactions in an explanation called the Standard Model, we still expect some improvement upon the Standard Model to be _the_ model of everything, the Weltformel that "really is" what drives the universe. I worked for a few years in data science, and found their cavalier attitude toward models shocking: models were invented to fit data for a specific purpose, such as predicting the value of a stock, and weren't intended to explain what's really going on or even to accurately predict quantities that were not of interest.
 
 This seems to be happening in most of the sciences, as far as I can tell: models are proposed as always-provisional substitutes for the ultimate truth, designed for specific purposes. After returning to physics, I noticed that we do this too—some theories are too complex to mathematically evaluate (e.g. quantum chromodynamics), so an effective model, known to be untrue at its core, is used to perform calculations in the regime in which it's a good approximation.
