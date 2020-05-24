@@ -315,4 +315,14 @@ Fortunately, we don't have to imagine a dividing line between deterministic acti
 
 Quantum mechanics doesn't prove causality or much less prove free will or consciousness, but it does provide wiggle room that the deterministic worldview didn't have. The deterministic worldview had problems that generations of philosophers bashed themselves against, from religious determinists like Calvin to scientific determinists like Laplace. We should stop thinking that it was more sensible.
 
-### Finally, what about SHOULD HAVE?
+### And finally: SHOULD HAVE
+
+All of this might sound like idle philosophizing, but it's important because causality is an absolute prerequisite for responsibility. If the judge that condemned our prisoner to death did not cause that death—either because there's an equally real judge who chose differently or because the condemnation and the execution were both predestined since the beginning of time—then the judge is not culpable for it, either. It would be no more sensible to say that an onlooking spider is guilty for that death, precisely because the spider did not cause it.
+
+Our culture has had wars over moral systems and we are rightly suspicious of anyone claiming to have moral certainty, but it is still the case that we need to make decisions about which actions are good or bad to take. Or more specifically, which actions we will take and which we will not. These are decisions that even a moral relativist makes.
+
+Walking down the street, I could pass a lamppost on the left or on the right. Quick! A decision needs to be made! As a being capable of choice, I will choose _something_, even if that choice is to stand dumbfounded at the lampost, like Buridan's ass.
+
+To categorize our decision-making, we label choices good and bad, or we put them on a scale. We have different criteria for labeling outcomes as good or bad, but our actions are only as good or bad as the outcomes that they cause. A bad outcome that I did not cause is not my fault, nor can I take credit for a good outcome that I did not cause.
+
+So if we don't have a notion of what it means to cause something, we don't know what it means to be responsible for something. There are legal arguments about who should be held responsible if a self-driving car kills someone precisely because the algorithm is not an agent capable of free choice, so the algorithm can't be held liable. If we could demonstrate from physics that causality is an illusion just like the three primary colors (which is due to how primates perceive the frequencies of light, not an aspect of light itself), then all the legal systems and any sense of "should" are unfounded. We'd be arguing for one made-up concept over another.
