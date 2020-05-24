@@ -3,7 +3,7 @@
 Table of contents
 
 1. [If correlation does not imply causality, what does?](#if-correlation-does-not-imply-causality-what-does)
-  1. [Introduction](#introduction)
+   1. [Introduction](#introduction)
 
 
 
