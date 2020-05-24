@@ -1,11 +1,22 @@
 # Could have, would have, should have
 
-Table of contents
+**Table of contents**
 
 1. [If correlation does not imply causality, what does?](#if-correlation-does-not-imply-causality-what-does)
    1. [Introduction](#introduction)
-
-
+   2. [Science fiction](#science-fiction)
+   3. [The problem quantum mechanics poses](#the-problem-quantum-mechanics-poses)
+   4. [Solutions to the problem quantum mechanics poses](#solutions-to-the-problem-quantum-mechanics-poses)
+2. [Thoughts and Stuff](#thoughts-and-stuff)
+   1. [Two different kinds of reality](#two-different-kinds-of-reality)
+   2. [A third reality: narrative](#a-third-reality-narrative)
+   3. [Models](#models)
+   4. [Causality is in the model, not the data](#causality-is-in-the-model-not-the-data)
+3. [Could have, would have, should have](#could-have-would-have-should-have)
+   1. [Implications of the Causal Revolution](#implications-of-the-causal-revolution)
+   2. [Quantum mechanics may be causal after all](#quantum-mechanics-may-be-causal-after-all)
+   3. [Using science to justify determinism](using-science-to-justify-determinism)
+   4. [And finally, the SHOULD HAVE](#and-finally-the-should-have)
 
 ## If correlation does not imply causality, what does?
 
@@ -324,7 +335,7 @@ Fortunately, we don't have to imagine a dividing line between deterministic acti
 
 Quantum mechanics doesn't prove causality or much less prove free will or consciousness, but it does provide wiggle room that the deterministic worldview didn't have. The deterministic worldview had problems that generations of philosophers bashed themselves against, from religious determinists like Calvin to scientific determinists like Laplace. We should stop thinking that it was more sensible than what we've got now.
 
-### And finally: the SHOULD HAVE
+### And finally, the SHOULD HAVE
 
 All of this might sound like idle philosophizing, but it's important because causality is an absolute prerequisite for responsibility. If the judge that condemned our prisoner to death did not cause that death—either because there's an equally real judge who chose differently or because the condemnation and the execution were both predestined since the beginning of time—then the judge is not culpable for it. It would be no more sensible to say that an onlooking spider is guilty for that death, precisely because the spider did not cause it.
 
