@@ -12,7 +12,7 @@
    2. [A third reality: narrative](#a-third-reality-narrative)
    3. [Models](#models)
    4. [Causality is in the model, not the data](#causality-is-in-the-model-not-the-data)
-3. [Could have, would have, should have](#could-have-would-have-should-have)
+3. [Could have, would have, should have](#could-have-would-have-should-have-1)
    1. [Implications of the Causal Revolution](#implications-of-the-causal-revolution)
    2. [Quantum mechanics may be causal after all](#quantum-mechanics-may-be-causal-after-all)
    3. [Using science to justify determinism](using-science-to-justify-determinism)
