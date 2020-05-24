@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   viewBox="0 0 33.450893 14.079613"
+   version="1.1"
+   id="svg987"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="figure-3.svg">
+  <defs
+     id="defs981">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1325"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1323"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="72.624356"
+     inkscape:cy="23.871359"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1570"
+     inkscape:window-height="816"
+     inkscape:window-x="167"
+     inkscape:window-y="97"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata984">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.856384,-105.80668)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1583"
+       width="33.450893"
+       height="14.079613"
+       x="66.856384"
+       y="105.80668" />
+    <g
+       id="g1581"
+       transform="translate(3.112016,-1.7618877e-6)">
+      <path
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.13996458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1325)"
+         d="m 80.469814,109.80111 v 5.54034"
+         id="path817"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.84005207px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07000434"
+         x="83.447083"
+         y="116.13324"
+         id="text87570"><tspan
+           sodipodi:role="line"
+           id="tspan87568"
+           x="83.447083"
+           y="116.13324"
+           style="stroke-width:0.07000434">outcome</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.84005207px;line-height:1.10000002;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07000434"
+         x="83.355614"
+         y="110.03286"
+         id="text87574"><tspan
+           sodipodi:role="line"
+           id="tspan87572"
+           x="83.355614"
+           y="110.03286"
+           style="stroke-width:0.07000434">choice</tspan></text>
+      <circle
+         id="path867"
+         style="fill:#000000;stroke:none;stroke-width:0.26458332"
+         cx="80.46981"
+         cy="115.90148"
+         r="0.39687505" />
+      <circle
+         id="path869"
+         style="fill:#000000;stroke:none;stroke-width:0.26458332"
+         cx="80.46981"
+         cy="109.80111"
+         r="0.39687505" />
+    </g>
+  </g>
+</svg>
