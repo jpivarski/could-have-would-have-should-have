@@ -9,7 +9,7 @@
    4. [Solutions to the problem quantum mechanics poses](#solutions-to-the-problem-quantum-mechanics-poses)
 2. [Thoughts and Stuff](#thoughts-and-stuff)
    1. [Two different kinds of reality](#two-different-kinds-of-reality)
-   2. [A third reality: narrative](#a-third-reality-narrative)
+   2. [The third reality: narrative](#the-third-reality-narrative)
    3. [Models](#models)
    4. [Causality is in the model, not the data](#causality-is-in-the-model-not-the-data)
 3. [Could have, would have, should have](#could-have-would-have-should-have-1)
@@ -166,7 +166,7 @@ The problem, I think, is that it's hard to fit these wildly different things int
 
 So we've living in two realities at once: a world of Thoughts and a world of Stuff. Taking this further, I would say that there's yet another.
 
-### A third reality: narrative
+### The third reality: narrative
 
 Pure logic and pure empiricism are not what mathematicians or scientists do. A paper listing billions of addition statements as theorems would be logically verifiable (by computer) and even novel (these _particular_ statements have never been uttered before), but not interesting. A table of measurements of thermal fluctuations in a rock would be factual, but not interesting. Both of these examples miss the point of why mathematicians and scientists do what they do.
 
