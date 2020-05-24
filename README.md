@@ -22,7 +22,7 @@
 
 ### Introduction
 
-There's a famous dictum among scientists that observing a correlation in your data does not mean that one thing caused another. For example, in a famous educational study, the best predictor of a student's success turned out to be owning books. Not reading them—owning them. It would seem that the best way to help our children succeed educationally is to stock books in our homes, but before we do that, we have to ask, "Couldn't it be that some other factor predicts both student success and home libraries?"
+There's a famous dictum among scientists that observing a correlation in your data does not mean that one thing caused another. For example, in a famous educational study, the best predictor of a student's success turned out to be owning books. Not reading books—owning them. It would seem that the best way to help our children succeed educationally is to stock our bookshelves. But before we do that, we have to ask, "Couldn't it be that some other factor predicts both student success and home libraries?"
 
 That's the conundrum in general: if A and B frequently appear in together in a dataset, does A cause B, does B cause A, or does some other C cause both A and B? The famous dictum about correlation not implying causality tells us to be suspicious, but it doesn't tell us how to determine if two things _are_ causally related.
 
