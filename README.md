@@ -297,7 +297,7 @@ So what about the standard interpretation of quantum mechanics? In standard quan
 
 Due to what we know about relativity, there are valid frames of reference in which Alice checks the record player dial before Bob listens to the recording and equally valid frames of reference in which Bob listens first and Alice checks the dial last. Either one could be said to have happened before the other.
 
-Relativity forbids us from drawing an arrow from the record player measurement to the tape recording measurement or vice-versa, and Bell's Inequality forbids us from drawing a common node pointing to both. This situation violates Reichenbach's Common Cause Principle, which states that these are the only ways to get a correlation between A and B: A → B, B → A, and C → A + C → B.
+Relativity forbids us from drawing an arrow from the record player measurement to the tape recording measurement or vice-versa, and Bell's Inequality forbids us from drawing a common node pointing to both. This situation violates Reichenbach's common cause principle, which states that the only ways to get a correlation between A and B are A → B, B → A, and C → A + C → B.
 
 Kathryn Laskey's _Quantum Causal Networks_ (2007) presents what I think is a brilliant solution: she adds _undirected_ lines to the graph. Judea Pearl's classical causal graphs involve only directed arrows that are not allowed to form any circular chains, which would be the time-travel paradoxes of science fiction. This is known in computer science as a Directed Acyclic Graph (DAG). Kathryn Laskey's quantum causal graphs have both undirected lines and directed arrows with two definitions and a rule:
 
@@ -305,7 +305,7 @@ Kathryn Laskey's _Quantum Causal Networks_ (2007) presents what I think is a bri
    2. A _precedes_ B if there is a directed arrow from A to B or a chain of such arrows from A to B to C. (That is, directed arrows are transitive.)
    3. As a rule, there are no nodes A and B such that (i) A precedes B and (ii) B precedes or is contemporaneous with A.
 
-The first part of the rule (i) forbids time-travel paradoxes, but the second part (ii) prevents the use of quantum information as faster-than-light communication. This kind of a graph is called a Sequenced Association Graph (SAG).
+The first part of the rule (i) forbids time-travel paradoxes, but the second part (ii) prevents the use of quantum information as faster-than-light communication. This kind of a graph is called a Sequenced Association Graph (SAG). It generalizes Reichenbach's common cause principle by adding a fourth way for A and B to be correlated: A — B.
 
 Here's what it looks like for our example:
 
