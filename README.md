@@ -242,7 +242,7 @@ Causality and counterfactuals have received a lot of attention from philosophers
 
 To illustrate how these theories work, let's take an example from Judea Pearl's _The Book of Why_. In this example, an authoritarian society finds a prisoner guilty of a crime, a judge sentences him to death, a military captain orders a firing squad to shoot him, each soldier fires, and the prisoner dies. This series of events could be drawn as a graph:
 
-<p style="text-align: center"><img src="figure-1.svg"></p>
+<p align="center"><img src="figure-1.svg"></p>
 
 The graph is a mathematical object motivated by empirical observations. It is not known _a priori_: you have to be aware of some empirical facts about this authoritarian society to know that this is how things work. However, once the graph is given, theorems can be deduced from it, such as "If the captain disobeys, the prisoner will not be shot," but "If a single soldier disobeys, the prisoner would still be shot."
 
@@ -309,7 +309,7 @@ The first part of the rule (3-i) forbids time travel paradoxes, and the second p
 
 Here's what it looks like for our example:
 
-<p style="text-align: center"><img src="figure-2.svg"></p>
+<p align="center"><img src="figure-2.svg"></p>
 
 We have a chain of causes from the past (top) to the future (bottom) from the tape recorder recording the record player to Alice and Bob taking their measurements and comparing them, but the influence between the record player and the tape recorder at the time of measurement is of a different type—it's not a cause in the same sense. It's symmetric between Alice's measurement and Bob's measurement.
 
@@ -357,7 +357,7 @@ To see how much this bothered me, look at [Jim Pivarski's Manifesto](http://piva
 
 Our terminology for moral responsibility could be more precise. Being in the category of explanations doesn't mean it lacks rigor—science and math are composed of explanations, too, at the most explicit end of a spectrum of narratives. Our terminology fails most often in depicting responsibility as though it were a two node graph:
 
-<p style="text-align: center"><img src="figure-3.svg"></p>
+<p align="center"><img src="figure-3.svg"></p>
 
 In other words, you chose the action that exclusively caused this bad (good) outcome, so you are to be scolded (praised) for that choice. Real causal graphs—and therefore, responsibility graphs—are more often like the firing squad example. An individual soldier contributes to the death of the prisoner, but not exclusively. Is the soldier responsible? Yes, because he shot the prisoner, but no, because the prisoner would have died without that action. The judge may maintain that the prisoner caused his own death by committing the crime—it's literally true that there are arrows from the crime to the execution—but saying so in a way that ignores all the links in between is perverse. The prisoner's responsibility is more remote than the soldiers'.
 
